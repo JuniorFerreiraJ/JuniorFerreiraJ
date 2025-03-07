@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marcos Paulo
+# Marcos Paulo
 
 **`Desenvolvedor FullStack`**
 
