@@ -108,7 +108,7 @@ Uma aplicação web moderna com tema escuro/claro, desenvolvida com HTML, CSS e 
 
 ## 📫 **Entre em Contato**
 
-- 📧 **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- 📧 **Email:** [juniormarcos22389@gmail.com](mailto:juniormarcos22389@gmail.com)
 - 💼 **LinkedIn:** [Marcos Paulo](https://www.linkedin.com/in/marcos-p-ferreira-junior/)
 - 🐙 **GitHub:** [@JuniorFerreiraJ](https://github.com/JuniorFerreiraJ)
 
